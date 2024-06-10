@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkturquoise;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-left: 20px;
+    margin-right: 20px;
+}
+
+.header{
+    background-color: cornflowerblue;
+}
+
+.img{
+    padding-top: 10px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+.form{
+    text-align: center;
+    color: wheat;
+}
+
+.all{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+
+.registrationform{
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.submit{
+    text-align: center; 
+}
